@@ -2,7 +2,7 @@
 Final Assignment of AMLSII
 
 # Prerequisites
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 # How to use
 The code is mainly written in jupyter-notebook.
